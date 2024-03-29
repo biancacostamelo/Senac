@@ -1,0 +1,62 @@
+.pading{
+    margin-top: 105px;
+}
+p{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+.relative{
+    position: relative;
+}
+.tamanho1{
+    height: 35px;
+}
+.tamanho2{
+    height: 70px;
+}
+.tamanho3{
+    height: 105px;
+}
+.tamanho4{
+    height:140px;
+}
+.tamanho5{
+    height: 175px;
+}
+.tamanho6{
+    height: 210px;
+}
+.tamanho7{
+    height: 245px;
+}
+.tamanho10{
+    height: 350px;
+}
+#cont1{
+    background-color: rgb(255, 52, 52);
+}
+#cont2{
+    background-color: rgb(255, 133, 52);
+}
+#cont3{
+    background-color: rgb(255, 235, 52);
+}
+#cont4{
+    background-color: rgb(59, 255, 52);
+}
+#cont5{
+    background-color: rgb(52, 255, 154);
+}
+#cont6{
+    background-color: rgb(6, 184, 207);
+}
+#cont7{
+    background-color: rgb(52, 82, 255);
+}
+#cont8{
+    background-color: rgb(140, 52, 255);
+}
+#cont9{
+    background-color: rgb(255, 52, 154);
+}
